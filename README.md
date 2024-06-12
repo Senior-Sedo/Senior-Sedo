@@ -56,12 +56,12 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Senior-Sedo/seniorID" title="seniorID"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorID&theme=react&border_color=00aaff&border_radius=10"></a>
-  <a align="right" href="https://github.com/Senior-Sedo/seniorINT" title="seniorINT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorINT&theme=react&border_color=00aaff&border_radius=10"></a>
+  <a align="right" href="https://github.com/Senior-Sedo/seniorITEM" title="seniorITEM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorITEM&theme=react&border_color=00aaff&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Senior-Sedo/seniorFRAC" title="seniorFRAC"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorFRAC&theme=react&border_color=00aaff&border_radius=10"></a>
-  <a align="right" href="https://github.com/Senior-Sedo/seniorITEM" title="seniorITEM"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorITEM&theme=react&border_color=00aaff&border_radius=10"></a>
+  <a align="right" href="https://github.com/Senior-Sedo/seniorINT" title="seniorINT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Senior-Sedo&repo=seniorINT&theme=react&border_color=00aaff&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
