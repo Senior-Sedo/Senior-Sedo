@@ -65,6 +65,16 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+<p align="center">
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="77" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="77" />
+</p>
+
 <h4 align="center">
   <a href="https://github.com/Senior-Sedo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
@@ -129,3 +139,8 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" /></p>
+
+
+<p align="center">
+  <img src="https://media.tenor.com/uf6r_mppuVoAAAAi/run-j-drun-jdwitherspoon.gif" width="100%" />
+</p>
