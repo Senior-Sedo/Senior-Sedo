@@ -5,7 +5,7 @@
 <h3 align="center">An Excited Developer 😍</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/B1uajA01vvL91Urtsp.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senior-sedo&label=Profile%20views&color=0e75b6&style=flat" alt="senior-sedo" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=senior-sedo&label=Profile%20views&color=0e75b6&style=flat" alt="senior-sedo" /></p>
 
 - 🔭 I’m currently working on [Making Helpful JS/TS Libraries](https://github.com/Senior-Sedo?tab=repositories)
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=61558494149412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senior sedo" height="30" width="40" /></a>
-<a href="https://instagram.com/seniorsedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seniorsedo" height="30" width="40" /></a>
-<a href="https://twitter.com/seniorsedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seniorsedo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/senior-sedo-b49491313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senior-sedo" height="30" width="40" /></a>
-<a href="https://codepen.io/senior-sedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senior-sedo" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61558494149412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senior sedo" height="30" width="40" /></a>
+  <a href="https://instagram.com/seniorsedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seniorsedo" height="30" width="40" /></a>
+  <a href="https://twitter.com/seniorsedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seniorsedo" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/senior-sedo-b49491313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senior-sedo" height="30" width="40" /></a>
+  <a href="https://codepen.io/senior-sedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="senior-sedo" height="30" width="40" /></a>
 </p>
 
 ***
