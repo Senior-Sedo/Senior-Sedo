@@ -69,10 +69,10 @@
   <a href="https://github.com/Senior-Sedo?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+***
+
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" /></p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f" /></p>
-
-***
 
 # 💻 Tech Stack:
 
@@ -126,8 +126,6 @@
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
-***
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" /></p>
