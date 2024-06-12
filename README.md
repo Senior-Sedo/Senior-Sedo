@@ -30,6 +30,28 @@
 
 <p align="center"><a href="[https://stars.github.com/profiles/denvercoder1/](https://github.com/Senior-Sedo?tab=repositories)"><img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a></p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=senior-sedo&theme=react&border=61dafb&hide_border=true" alt="Senior Sedo" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=senior-sedo&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senior-sedo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senior-sedo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -82,9 +104,3 @@
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
-# 📊 GitHub Stats:
-
-<p align="center"><a href="https://github.com/Senior-Sedo?tab=repositories"><img alt="MAYURESHBAILURKAR's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&hide_border=true" /></a></p>
-<p align="center"><a href="https://github.com/Senior-Sedo?tab=repositories"><img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></a></p>
-<p align="center"><a href="https://github.com/Senior-Sedo?tab=repositories"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="MAYURESHBAILURKAR" /></a></p>
