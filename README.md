@@ -83,6 +83,6 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://github.com/MAYURESHBAILURKAR"><img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<a href="https://github.com/MAYURESHBAILURKAR"><img alt="MAYURESHBAILURKAR's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&hide_border=true" />
-<p align="center"><a href="https://github.com/MAYURESHBAILURKAR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="MAYURESHBAILURKAR" /></p>
+<a href="https://github.com/MAYURESHBAILURKAR"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_border=true" alt="MAYURESHBAILURKAR" />
+<a href="https://github.com/MAYURESHBAILURKAR"><img alt="MAYURESHBAILURKAR's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHBAILURKAR&theme=tokyonight&hide_border=false&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/MAYURESHBAILURKAR"><img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=MAYURESHBAILURKAR&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></a></p>
