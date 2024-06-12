@@ -142,5 +142,5 @@
 
 
 <p align="center">
-  <img src="https://media.tenor.com/uf6r_mppuVoAAAAi/run-j-drun-jdwitherspoon.gif" width="100%" />
+  <img src="https://media.tenor.com/uf6r_mppuVoAAAAi/run-j-drun-jdwitherspoon.gif" width="60%" />
 </p>
