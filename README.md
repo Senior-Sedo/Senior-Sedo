@@ -144,3 +144,5 @@
 <p align="center">
   <img src="https://media.tenor.com/uf6r_mppuVoAAAAi/run-j-drun-jdwitherspoon.gif" width="60%" />
 </p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
