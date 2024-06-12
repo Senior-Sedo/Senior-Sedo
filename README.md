@@ -28,6 +28,8 @@
 
 ***
 
+<p align="center"><a href="[https://stars.github.com/profiles/denvercoder1/](https://github.com/Senior-Sedo?tab=repositories)"><img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a></p>
+
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
