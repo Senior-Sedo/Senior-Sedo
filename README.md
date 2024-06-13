@@ -32,7 +32,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="33%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="300" /></p>
 
 <p align=center>
   <div align=center>
