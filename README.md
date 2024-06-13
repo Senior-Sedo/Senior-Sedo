@@ -5,7 +5,7 @@
 <h3 align="center">An Excited Developer 😍</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/B1uajA01vvL91Urtsp.webp" />
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Senior-Sedo&label=Profile%20views&color=0e75b6&style=flat" alt="Senior-Sedo" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Senior-Sedo&label=Profile%20views&color=00aaff&style=style=for-the-badge" alt="Senior-Sedo" /></p>
 
 - 🔭 I’m currently working on [Making Helpful JS/TS Libraries](https://github.com/Senior-Sedo?tab=repositories)
 
