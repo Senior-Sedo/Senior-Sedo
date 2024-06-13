@@ -54,7 +54,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senior-Sedo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/wrapperup/wrapperup/02392f15f4755a6c38d171f4e72d40ee89a91d75/good-times.svg" width="30%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wrapperup/wrapperup/02392f15f4755a6c38d171f4e72d40ee89a91d75/good-times.svg" width="222" /></p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <p align="center"><img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%" /></p>
