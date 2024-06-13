@@ -71,13 +71,13 @@
 <br/><br/><br/><br/><br/><br/>
 
 <p align="center">
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="77" />
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="77" />
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="77" />
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="10%" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="10%" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="10%" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="10%" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="10%" />
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="10%" />
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="10%" />
 </p>
 
 <h4 align="center">
